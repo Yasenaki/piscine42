@@ -1,0 +1,2 @@
+norminette -R ! ft_print_alphabet.c 
+norminette -R CheckForbiddenSourceHeader ft_print_alphabet.c
